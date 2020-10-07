@@ -48,5 +48,5 @@ Team
 .. _Watcharakorn Kaewsawee: https://github.com/imspiiz
 .. _Cheewarak Rodniam: https://github.com/xZero0
 .. _Chalermchon Saekoo: https://github.com/progreanmer
-thanking for vist oer site
+thanking for vist our site
                                        🙏🙏 HAVE A GREAT DAY🙏🙏
