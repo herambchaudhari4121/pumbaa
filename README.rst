@@ -22,7 +22,7 @@ The Pumbaa project uses the `gitflow <http://nvie.com/posts/a-successful-git-bra
 
 Join Us!
 -------
-We welcome contributions! Join `Pumbaa Project`_.
+We are glad to welcome our contributions! Join `Pumbaa Project`_.
 
 Team
 ----
@@ -48,4 +48,5 @@ Team
 .. _Watcharakorn Kaewsawee: https://github.com/imspiiz
 .. _Cheewarak Rodniam: https://github.com/xZero0
 .. _Chalermchon Saekoo: https://github.com/progreanmer
-
+thanking for vist oer site
+                                       🙏🙏 HAVE A GREAT DAY🙏🙏
